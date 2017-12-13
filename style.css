@@ -1,0 +1,58 @@
+body, html {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #13294b;
+}
+
+canvas {
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+.title {
+  position: absolute;
+  top: 15%;
+  left: 0;
+  right: 0;
+}
+
+h1 {
+  font-size: 4.5em;
+  color: white;
+  font-family: 'Arial Narrow', serif;
+  letter-spacing: 2px;
+  pointer-events: none;
+  font-weight: 500;
+  border: 0px;
+  margin: 0px;
+  text-align: center;
+  vertical-align: center;
+  /*color: #7a9fd0;*/
+  color: #E84A27;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Open Sans', serif;
+  color: white;
+  font-size: 1.3em;
+  text-align: center;
+  display: table;
+  width: 50%;
+
+  color: #E84A27;
+}
+
+.line {
+  color: white;
+}
+
+.media {
+  color: white;
+}
